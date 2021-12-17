@@ -1,0 +1,20 @@
+[17-Dec-2021 20:52:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbrq45sldvvtpg.Profile' doesn't exist in /home/customer/www/daleli.me/public_html/JSCourse/week3/edit.php:98
+Stack trace:
+#0 /home/customer/www/daleli.me/public_html/JSCourse/week3/edit.php(98): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/daleli.me/public_html/JSCourse/week3/edit.php on line 98
+[17-Dec-2021 20:52:31 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbrq45sldvvtpg.Profile' doesn't exist in /home/customer/www/daleli.me/public_html/JSCourse/week3/edit.php:98
+Stack trace:
+#0 /home/customer/www/daleli.me/public_html/JSCourse/week3/edit.php(98): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/daleli.me/public_html/JSCourse/week3/edit.php on line 98
+[17-Dec-2021 20:53:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbrq45sldvvtpg.Profile' doesn't exist in /home/customer/www/daleli.me/public_html/JSCourse/week3/delete.php:14
+Stack trace:
+#0 /home/customer/www/daleli.me/public_html/JSCourse/week3/delete.php(14): PDOStatement->execute(Array)
+#1 {main}
+  thrown in /home/customer/www/daleli.me/public_html/JSCourse/week3/delete.php on line 14
+[17-Dec-2021 21:06:33 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'dbrq45sldvvtpg.profile' doesn't exist in /home/customer/www/daleli.me/public_html/JSCourse/week3/index.php:4
+Stack trace:
+#0 /home/customer/www/daleli.me/public_html/JSCourse/week3/index.php(4): PDO->query('SELECT profile_...')
+#1 {main}
+  thrown in /home/customer/www/daleli.me/public_html/JSCourse/week3/index.php on line 4
